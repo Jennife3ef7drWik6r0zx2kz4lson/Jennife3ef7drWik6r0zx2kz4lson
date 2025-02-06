@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi there! 👋 I'm Jennife3ef7drWik6r0zx2kz4lson
 
-<!--
-**Jennife3ef7drWik6r0zx2kz4lson/Jennife3ef7drWik6r0zx2kz4lson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎾 🎯 🎳 🚴 A hacker in data science 🎾 🎯 🎳 🚴
 
-Here are some ideas to get you started:
+## About Me
+🎣 🎾 🥋 🚣 Creating amazing things with desktop development 🎣 🎾 🥋 🚣
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I'm Working On
+🏏 🎰 Dedicated to mastering web development 🏏 🎰
+
+### Fun Facts
+🎣 🥊 Building the future with system programming 🎣 🥊
+
+---
+🏑 🏹 🚣 🎱 🏓 Thanks for visiting my profile! 🚣 🎣 🎱 🎹 🎷
